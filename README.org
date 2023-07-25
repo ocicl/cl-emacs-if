@@ -1,0 +1,10 @@
+* cl-emacs-if
+
+Emacs-like IF and WHILE operators for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/7max/cl-emacs-if.git   |
+| commit  | e281899  |
+| systems | cl-emacs-if |
+|---------+-------------------------------------------|
+
